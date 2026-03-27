@@ -160,4 +160,7 @@
 - name: "ClickUp - Backlog"
   color: "EEE600"
   description: "Used when syncing issues between GitHub and Clickup."
+- name: "ClickUp - Focus"
+  color: "EEE600"
+  description: "Used when syncing issues between GitHub and Clickup."
 
