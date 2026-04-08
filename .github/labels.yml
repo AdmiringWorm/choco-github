@@ -163,4 +163,7 @@
 - name: "ClickUp - Focus"
   color: "EEE600"
   description: "Used when syncing issues between GitHub and Clickup."
+- name: "ClickUp - Interrupt"
+  color: "EEE600"
+  description: "Used when syncing issues between GitHub and Clickup."
 
