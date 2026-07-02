@@ -159,6 +159,7 @@ group:
       chocolatey/ChocolateyGUI
       chocolatey/chocolatey-licensed-issues
       chocolatey/home
+      chocolatey-community/chocolatey-package-requests
 
 
 
