@@ -166,4 +166,6 @@
 - name: "ClickUp - Interrupt"
   color: "EEE600"
   description: "Used when syncing issues between GitHub and Clickup."
-
+- name: "ClickUp - QA"
+  color: "EEE600"
+  description: "Used when syncing issues between GitHub and Clickup."
